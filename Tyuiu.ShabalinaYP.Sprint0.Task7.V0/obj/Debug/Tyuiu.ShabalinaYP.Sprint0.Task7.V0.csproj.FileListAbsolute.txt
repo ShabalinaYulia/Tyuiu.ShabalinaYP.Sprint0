@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Tyuiu.ShabalinaYP.Sprint0\Tyuiu.ShabalinaYP.Sprint0.Task7.V0\obj\Debug\Tyuiu.ShabalinaYP.Sprint0.Task7.V0.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.ShabalinaYP.Sprint0\Tyuiu.ShabalinaYP.Sprint0.Task7.V0\obj\Debug\Tyuiu.ShabalinaYP.Sprint0.Task7.V0.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.ShabalinaYP.Sprint0\Tyuiu.ShabalinaYP.Sprint0.Task7.V0\bin\Debug\Tyuiu.ShabalinaYP.Sprint0.Task7.V0.exe.config
+C:\Users\User\source\repos\Tyuiu.ShabalinaYP.Sprint0\Tyuiu.ShabalinaYP.Sprint0.Task7.V0\bin\Debug\Tyuiu.ShabalinaYP.Sprint0.Task7.V0.exe
+C:\Users\User\source\repos\Tyuiu.ShabalinaYP.Sprint0\Tyuiu.ShabalinaYP.Sprint0.Task7.V0\bin\Debug\Tyuiu.ShabalinaYP.Sprint0.Task7.V0.pdb
+C:\Users\User\source\repos\Tyuiu.ShabalinaYP.Sprint0\Tyuiu.ShabalinaYP.Sprint0.Task7.V0\bin\Debug\Tyuiu.ShabalinaYP.Sprint0.Task7.V0.Lib.dll
+C:\Users\User\source\repos\Tyuiu.ShabalinaYP.Sprint0\Tyuiu.ShabalinaYP.Sprint0.Task7.V0\bin\Debug\Tyuiu.ShabalinaYP.Sprint0.Task7.V0.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.ShabalinaYP.Sprint0\Tyuiu.ShabalinaYP.Sprint0.Task7.V0\obj\Debug\Tyuiu.Sh.9F94C1B9.Up2Date
+C:\Users\User\source\repos\Tyuiu.ShabalinaYP.Sprint0\Tyuiu.ShabalinaYP.Sprint0.Task7.V0\obj\Debug\Tyuiu.ShabalinaYP.Sprint0.Task7.V0.exe
+C:\Users\User\source\repos\Tyuiu.ShabalinaYP.Sprint0\Tyuiu.ShabalinaYP.Sprint0.Task7.V0\obj\Debug\Tyuiu.ShabalinaYP.Sprint0.Task7.V0.pdb
